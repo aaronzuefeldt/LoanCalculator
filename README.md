@@ -1,0 +1,1 @@
+This is an Eclipse project for a loan calculator. Run the project and the prompt will guide you through calculating your loans.
